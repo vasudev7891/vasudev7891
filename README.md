@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Java+Developer;DSA+Learner;Problem+Solver;Future+Software+Engineer)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Dev Singh</h1>
+<h3 align="center">A passionate programmer exploring algorithms and backend development</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Java+Developer;DSA+Enthusiast;LeetCode+Problem+Solver;Backend+Development+Learner;Future+Software+Engineer" />
+</p>
+
 # 👋 Hey, I'm Vasudev Katariya
 
 💻 Computer Science student passionate about **problem solving and backend development**.  
@@ -44,12 +50,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
----
-
-## 🏆 GitHub Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
 
 ---
 
