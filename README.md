@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Java+Developer;DSA+Learner;Problem+Solver;Future+Software+Engineer)](https://git.io/typing-svg)
 # 👋 Hey, I'm Vasudev Katariya
 
 💻 Computer Science student passionate about **problem solving and backend development**.  
@@ -44,6 +45,14 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
+---
+
+## 🏆 GitHub Achievements
+
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vasudev7891&show_icons=true&theme=tokyonight)
@@ -76,3 +85,4 @@
 ---
 
 💡 *“Every day I try to become a better programmer than yesterday.”*
+
