@@ -41,13 +41,17 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vasudev7891&theme=tokyonight" />
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasudev7891&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudev7891&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 Coding Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vasudev7891&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vasudev7891&theme=tokyonight" />
+</p>
 
 ---
 
