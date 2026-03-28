@@ -30,7 +30,23 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,java,html,css,js,nodejs,express,mongodb,mysql,aws,vercel,netlify,github,python,cpp,c,flask&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=c" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=flask" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" style="margin:10px;" />
 </p>
 
 ---
@@ -62,13 +78,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vasudev-katariya-cse/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" style="margin: 10px;" />
   </a>
   <a href="https://instagram.com/vasudevwx">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" style="margin: 10px;" />
   </a>
   <a href="mailto:vasudevkatariya75668@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" style="margin: 10px;" />
   </a>
 </p>
 
