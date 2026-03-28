@@ -60,7 +60,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/vasudev-katariya-cse/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
