@@ -13,7 +13,7 @@
 
 🔍 Solving problems on **LeetCode** to strengthen algorithmic thinking  
 📚 Studying **Data Structures, Algorithms, and System Design basics**  
-⚙️ Building small **Java backend projects** to improve practical skills  
+⚙️ Building small **MERN projects** to improve practical skills  
 🌱 Learning how real-world software systems work  
 
 ---
@@ -21,7 +21,7 @@
 ## 🎯 Current Goals
 
 • Master **DSA for technical interviews**  
-• Build **strong Java backend projects**  
+• Build **strong MERN projects**  
 • Contribute to **open source projects**  
 • Improve **problem solving speed and logic**
 
