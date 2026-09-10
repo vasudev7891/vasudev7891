@@ -3,7 +3,7 @@
 </p>
 
 # 👋 Hey, I'm Vasudev Katariya
-📷 Portfolio: https://vasudev7891.github.io/Portfolio/ '\n'
+📷 Portfolio: https://vasudev7891.github.io/Portfolio/<br>
 💻 Computer Science student passionate about **problem solving and backend development**.  
 🚀 Currently focused on **Data Structures & Algorithms and competitive programming**.
 
